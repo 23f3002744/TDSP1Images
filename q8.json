@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic wide-angle landscape photograph, golden hour light, depicting a hillside covered in winding footpaths. Every individual path, seen close up, clearly climbs upward — the worn dirt trails each rise from left to right. Yet the overall mountain slopes unmistakably downward from left to right when viewed as a whole. Both the local upward slope and the global downward slope are simultaneously visible and unambiguous in the same frame. The viewer's eye is pulled upward by the paths and downward by the mountain in the same moment. Mood: quiet wrongness, spatial impossibility that feels real. Color palette: warm amber, deep green, hazy blue distance. No text, no charts, no arrows, no annotations. Photorealistic, not surreal or cartoonish.",
+  "model": "gemini-2.0-flash-preview-image-generation",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each visible footpath rises left-to-right (subgroup trend upward), yet the entire hillside descends left-to-right (aggregate trend downward). Local and global slopes contradict simultaneously in one photorealistic frame."
+}
