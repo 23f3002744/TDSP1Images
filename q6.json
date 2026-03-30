@@ -1,0 +1,6 @@
+{
+  "prompt": "Close-up photograph through an oven window. A golden-brown loaf of bread at perfect peak colour. A baker's hand is already gripping the oven door handle, about to open it. The loaf looks exactly done — not a moment too soon or too late. Warm amber oven glow. No text, no labels.",
+  "model": "Gemini Flash",
+  "concept": "early stopping",
+  "metaphor": "A perfectly baked loaf at peak doneness, hand on the oven door: training halted at the exact moment before overfitting — one second later ruins it."
+}
